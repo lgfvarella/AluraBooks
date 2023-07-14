@@ -37,10 +37,10 @@ Pré-requisitos: npm
 npm install -g live-server 
 
 # clonar repositório
-git clone https://github.com/lgfvarella/AluraPlus.git
+git clone https://github.com/lgfvarella/AluraBooks.git
 
 # entrar na pasta do projeto front end web
-cd AluraPlus
+cd AluraBooks
 
 # executar o projeto
 live-server --port=3000
