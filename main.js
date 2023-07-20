@@ -2,6 +2,7 @@
 //     spaceBetween:10,
 // });
 
+
 const swiper = new Swiper('.swiper', {
     // Optional parameters
     direction: 'horizontal',
@@ -38,5 +39,6 @@ const swiper = new Swiper('.swiper', {
     scrollbar: {
       el: '.swiper-scrollbar',
     },
-  });
+});
+
   
