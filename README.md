@@ -15,9 +15,9 @@ A aplicação tem a finalidade de ensinar:
 - Realizar o deploy de um site através do Github Pages
 
 ## Layout Mobile
-![Web 1](https://github.com/lgfvarella/AluraPlus/blob/main/img/AluraBooksMobile.png)
+![Web 1](https://github.com/lgfvarella/AluraBooks/blob/main/img/AluraBooksMobile.png)
 ## Layout web
-![Web 1](https://github.com/lgfvarella/AluraPlus/blob/main/img/AluraBooks.png)
+![Web 1](https://github.com/lgfvarella/AluraBooks/blob/main/img/AluraBooks.png)
 
 # Tecnologias utilizadas
 ## Front end
