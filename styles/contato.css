@@ -21,7 +21,6 @@
 
 .contato__texto{
     font-weight: 300;
-    margin: 1em 0;
 }
 
 
@@ -47,11 +46,23 @@
 @media screen and (min-width: 1024px){
     .contato{
         display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .contato__titulo{
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .contato__email{
+        width: 30%;
     }
 
     .contato__descricao{
         display: flex;
         flex-direction: column;
+        width: 30%;
     }
-    
 }
