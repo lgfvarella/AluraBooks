@@ -55,3 +55,25 @@
     
     
 }
+@media screen and (min-width: 1728px) {
+    .carrossel__container{
+        display: flex;
+        gap: 2em;
+        margin: 2em 15vw 3em 15vw;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .swiper-pagination {
+        margin:  0.2em;
+    }
+    .descricao__titulo{
+        font-size: 32px;
+    }
+    .descricao__texto{
+        font-size: 16px;
+    }
+    .descricao__imagem{
+        margin-left: 2em ;
+    }
+}

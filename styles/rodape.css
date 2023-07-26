@@ -5,12 +5,14 @@ hr{
     background-color:var(--branco);
 }
 .rodape__titulo{
-    margin: 1em;
-    padding: 1em;
+    padding: 2em;
 }
 .lista-rodape{
     display: none;
 }
+.lista-rodape__link:hover {
+    color: var(--laranja);
+    }
 
 @media screen and (min-width:1024px){
     .rodape{
@@ -47,4 +49,14 @@ hr{
         color: #474646;
     }
 
+}
+@media screen and (min-width: 1728px){
+    .rodape{
+        padding: 3em 0;
+    }
+    .lista-rodape{
+        padding: 1em;
+        border-left: 1px solid #858585;
+    }
+    
 }
